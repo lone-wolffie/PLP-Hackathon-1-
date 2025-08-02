@@ -30,9 +30,9 @@ You can deploy this project for free using **GitHub Pages**:
 2. Go to your repository on GitHub.  
 3. Click **Settings** (top menu).  
 4. Scroll to **Pages** (left sidebar).  
-5. Under **Source**, select `main` (or `master`) branch and `/root`.  
+5. Under **Source**, select `main` branch and `/root`.  
 6. Click **Save**.  
-7. Wait a few minutes, and your site will be live at:  
+7. Wait a few minutes and your site will be live at:  
 https://lone-wolffie.github.io/PLP-Hackathon-1-/
 
 
